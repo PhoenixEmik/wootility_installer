@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/opt/wootility/wootility.sh %u
+GenericName[en_US]=
+GenericName=
+Hidden=false
+Icon=/opt/wootility/wootility.jpg
+MimeType=x-scheme-handler/web+wootwoot;x-scheme-handler/wootwoot;
+Name[en_US]=Wootility
+Name=Wootility
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
